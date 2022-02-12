@@ -43,8 +43,7 @@ Otevřete webové rozhraní. V sekci `Configuration | Configure Module` zadejte 
 | 17 | Vindriktning TX |
 | 21 | I2C SDA |
 | 22 | I2C SCL |
-
-_TODO_ Doplnit LED
+| 25 | WS2812 |
 
 Po uložení se zařízení restartuje a mělo vy vás uvítat něco takového:
 
