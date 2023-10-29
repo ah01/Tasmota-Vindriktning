@@ -1,3 +1,10 @@
+----
+
+📣 **Tento projekt je mrtvý. Funkcionalita je poměrně jednoduchá. A šlo by ji napsat v [Berry](https://tasmota.github.io/docs/Berry/#creating-a-tasmota-driver). Není potřeba udržovat nativní Tasmota driver.**
+
+----
+
+
 # Ikea Vindriktning a Tasmota
 
 V tomto repu. je vývojová verze úpravy [Tasmota]() FW, tak aby mohl být použit na PCB [LaskaKit ESP-VINDRIKTNING ESP-32 I2C](https://www.laskakit.cz/laskakit-esp-vindriktning-esp-32-i2c/).
